@@ -1,4 +1,1 @@
-Python Library Flask
-HTML
-CSS
-EDIN NER API KEY(we can use any other free api as well)
+Flask==3.0.3
