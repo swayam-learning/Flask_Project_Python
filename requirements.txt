@@ -1,0 +1,4 @@
+Python Library Flask
+HTML
+CSS
+EDIN NER API KEY(we can use any other free api as well)
