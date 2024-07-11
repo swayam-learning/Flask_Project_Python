@@ -49,7 +49,7 @@ def ner():
         if text:
             # Call the NER API
             headers = {
-                "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNGE3NTg3NTktZTlhZS00YzA5LWE1M2UtMGM5YjRjMzNkYjA0IiwidHlwZSI6ImFwaV90b2tlbiJ9.RaKi3XhpwBUlGNmvrw-grc9XQkNW2n-dQ2zo0V1wfVI"
+                "Authorization": "Bearer <your own api key>"
             }
             url = "https://api.edenai.run/v2/text/named_entity_recognition"
             payload = {
